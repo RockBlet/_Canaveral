@@ -48,7 +48,7 @@ def logo():
     logo = pyfiglet.figlet_format("S a u r o n", font = "bulbhead" )
     logo = Fore.CYAN + logo + Style.RESET_ALL
 
-    byName = Fore.CYAN + "[c] - By Nemizuki" + Style.RESET_ALL
+    byName = Fore.CYAN + "[c] - By Nekko" + Style.RESET_ALL
 
     os.system("clear")
 
